@@ -1,0 +1,6 @@
+langchain
+langchain-ollama
+chromadb
+pypdf
+tiktoken
+streamlit
